@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently Focusing on **Studies and Programming**
 
 - 🌱 I’m currently learning **Forntend Development and Competitive Programming**
 
