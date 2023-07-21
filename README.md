@@ -11,11 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaneshRaajSS](https://github.com/GaneshRaajSS)
 
-- 📝 I regularly write Notes on [https://www.notion.so/ganeshraaj/Web-Development-71df0e8a4f9645e582aeddbf357f19fb](https://www.notion.so/ganeshraaj/Web-Development-71df0e8a4f9645e582aeddbf357f19fb)
+- 📝 Personal Notes on [https://www.notion.so/ganeshraaj/Web-Development-71df0e8a4f9645e582aeddbf357f19fb](https://www.notion.so/ganeshraaj/Web-Development-71df0e8a4f9645e582aeddbf357f19fb)
 
-- 💬 Ask me about **HTML,CSS,Js,React and UI(Figma,XD),Indesign**
+- 💬 Ask me about **HTML,CSS,Js,React,Angular and UI(Figma,XD),Indesign**
 
-- 📫 How to reach me **ssganeshraaj@gmail.com**
+- Developing myself on leetcode with an dream of 150 codes to complete **https://leetcode.com/GaneshRaajSS/**
+
+- 📫 How to reach me **ssganeshraaj@gmail.com** or my LinkedIn **https://www.linkedin.com/in/ganesh-raaj-s-s-32269423a/**
+
+- Scroll down to view more about myself 👇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
