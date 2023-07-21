@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Focusing on **Studies and Programming**
 
-- 🌱 I’m currently learning **Forntend Development and Competitive Programming**
+- 🌱I am currently upskilling in both **Frontend Development and Competitive Programming**. I have been actively learning and practicing new techniques and technologies to enhance my expertise in building user-friendly and efficient web applications. Additionally, I have been participating in competitive programming competitions to sharpen my problem-solving skills and algorithmic thinking.
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaneshRaajSS](https://github.com/GaneshRaajSS)
 
